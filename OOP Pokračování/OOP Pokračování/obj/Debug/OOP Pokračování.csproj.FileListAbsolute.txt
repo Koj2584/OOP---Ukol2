@@ -1,0 +1,10 @@
+G:\Dokumenty\Csharp\OOP Pokračování\OOP Pokračování\bin\Debug\OOP Pokračování.exe.config
+G:\Dokumenty\Csharp\OOP Pokračování\OOP Pokračování\bin\Debug\OOP Pokračování.exe
+G:\Dokumenty\Csharp\OOP Pokračování\OOP Pokračování\bin\Debug\OOP Pokračování.pdb
+G:\Dokumenty\Csharp\OOP Pokračování\OOP Pokračování\obj\Debug\OOP Pokračování.csprojAssemblyReference.cache
+G:\Dokumenty\Csharp\OOP Pokračování\OOP Pokračování\obj\Debug\OOP_Pokračování.Form1.resources
+G:\Dokumenty\Csharp\OOP Pokračování\OOP Pokračování\obj\Debug\OOP_Pokračování.Properties.Resources.resources
+G:\Dokumenty\Csharp\OOP Pokračování\OOP Pokračování\obj\Debug\OOP Pokračování.csproj.GenerateResource.cache
+G:\Dokumenty\Csharp\OOP Pokračování\OOP Pokračování\obj\Debug\OOP Pokračování.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Csharp\OOP Pokračování\OOP Pokračování\obj\Debug\OOP Pokračování.exe
+G:\Dokumenty\Csharp\OOP Pokračování\OOP Pokračování\obj\Debug\OOP Pokračování.pdb
