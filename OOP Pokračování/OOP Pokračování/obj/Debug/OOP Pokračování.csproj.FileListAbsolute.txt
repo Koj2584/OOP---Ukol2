@@ -8,3 +8,14 @@ G:\Dokumenty\Csharp\OOP Pokračování\OOP Pokračování\obj\Debug\OOP Pokračo
 G:\Dokumenty\Csharp\OOP Pokračování\OOP Pokračování\obj\Debug\OOP Pokračování.csproj.CoreCompileInputs.cache
 G:\Dokumenty\Csharp\OOP Pokračování\OOP Pokračování\obj\Debug\OOP Pokračování.exe
 G:\Dokumenty\Csharp\OOP Pokračování\OOP Pokračování\obj\Debug\OOP Pokračování.pdb
+D:\Koj\Programování\C#\OOP DU2\OOP Pokračování\OOP Pokračování\bin\Debug\OOP Pokračování.exe.config
+D:\Koj\Programování\C#\OOP DU2\OOP Pokračování\OOP Pokračování\bin\Debug\OOP Pokračování.exe
+D:\Koj\Programování\C#\OOP DU2\OOP Pokračování\OOP Pokračování\bin\Debug\OOP Pokračování.pdb
+D:\Koj\Programování\C#\OOP DU2\OOP Pokračování\OOP Pokračování\obj\Debug\OOP Pokračování.csproj.AssemblyReference.cache
+D:\Koj\Programování\C#\OOP DU2\OOP Pokračování\OOP Pokračování\obj\Debug\OOP Pokračování.csproj.SuggestedBindingRedirects.cache
+D:\Koj\Programování\C#\OOP DU2\OOP Pokračování\OOP Pokračování\obj\Debug\OOP_Pokračování.Form1.resources
+D:\Koj\Programování\C#\OOP DU2\OOP Pokračování\OOP Pokračování\obj\Debug\OOP_Pokračování.Properties.Resources.resources
+D:\Koj\Programování\C#\OOP DU2\OOP Pokračování\OOP Pokračování\obj\Debug\OOP Pokračování.csproj.GenerateResource.cache
+D:\Koj\Programování\C#\OOP DU2\OOP Pokračování\OOP Pokračování\obj\Debug\OOP Pokračování.csproj.CoreCompileInputs.cache
+D:\Koj\Programování\C#\OOP DU2\OOP Pokračování\OOP Pokračování\obj\Debug\OOP Pokračování.exe
+D:\Koj\Programování\C#\OOP DU2\OOP Pokračování\OOP Pokračování\obj\Debug\OOP Pokračování.pdb

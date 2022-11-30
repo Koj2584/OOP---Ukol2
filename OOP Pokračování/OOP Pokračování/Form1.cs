@@ -16,12 +16,26 @@ namespace OOP_Pokračování
         {
             InitializeComponent();
         }
+        NakladniAuto auto;
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Student s1 = new Student(textBox1.Text, textBox2.Text, dateTimePicker1.Value);
-            s1.Znamka = (int)numericUpDown1.Value;
-            MessageBox.Show(s1.ToString());
+            auto = new NakladniAuto(textBox1.Text, (short)numericUpDown1.Value);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            auto.NalozNaklad((short)numericUpDown2.Value);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            auto.VylozNaklad((short)numericUpDown3.Value);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(auto.ToString());
         }
     }
 }

@@ -12,12 +12,13 @@ namespace OOP_Pokračování
         private string spz;
         private short nosnost;
         private short hmotnostNakladu = 0;
-        public short HmotnostNakladu {
+        public short HmotnostNakladu
+        {
             get
             {
                 return hmotnostNakladu;
             }
-        
+
         }
 
         public NakladniAuto(string spz, short nosnost)
@@ -41,13 +42,16 @@ namespace OOP_Pokračování
         {
             if (vaha > hmotnostNakladu)
             {
-                hmotnostNakladu = 0;
                 MessageBox.Show("Chybějící náklad  " + (vaha - hmotnostNakladu) + " tun.");
+                hmotnostNakladu = 0;
             }
             else
                 hmotnostNakladu -= vaha;
         }
 
-
+        public override string ToString()
+        {
+            return "Nákladní auto " + spz+" má nosnost " + nosnost + "t a má naloženo " + HmotnostNakladu + "t";
+        }
     }
 }
